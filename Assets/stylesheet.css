@@ -1,0 +1,9 @@
+img{
+    width: 330px; 
+    height: 400px;
+    text-align: center;
+}
+
+nav.navbar{
+    background-color: blue;
+}
