@@ -7,3 +7,11 @@ img{
 nav.navbar{
     background-color: blue;
 }
+
+.centerBox {
+    border: 0.25pc solid grey;
+}
+
+.row2{
+    padding-top=1px;
+}
