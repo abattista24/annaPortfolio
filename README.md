@@ -1,9 +1,6 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
-
-
-## Directions
+## Description
 
 First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
 
@@ -21,7 +18,7 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
 
-### Hints
+### Instalation
 
 * Use Bootstrap's grid system (containers, rows, and columns).
 
@@ -29,7 +26,7 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * Use an HTML validation service to ensure that each page has valid HTML.
 
-### Minimum Requirements
+### Usage
 
 * Functional, deployed application
 
@@ -50,12 +47,12 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 * Must properly utilize Bootstrap components and grid system.
 
 
-### Bonus
+### Credits
 
 * Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
 
 
-## Commit Early and Often
+## License
 
 One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
 

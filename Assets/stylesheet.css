@@ -4,6 +4,7 @@ img{
     text-align: center;
 }
 
+/* doesn't work, find how to change colors of bootstrap elements */
 nav.navbar{
     background-color: blue;
 }
