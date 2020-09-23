@@ -15,7 +15,7 @@ Use this code to look at my bio and portfolio page.  It can also be used to crea
 
 ### Credits
 
-This was made using bootstrap in addition to html and css
+This was made using bootstrap in addition to html and css.  The fonts come from fonts.google.com
 
 
 ## License
