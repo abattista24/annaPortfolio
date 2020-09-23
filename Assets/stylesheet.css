@@ -1,6 +1,18 @@
+
+/* CSS rules to specify families
+
+font-family: 'Amatic SC', cursive;
+font-family: 'Architects Daughter', cursive;
+font-family: 'Ribeye Marrow', cursive; */
+
 body{
     background-image: url("./Images/greyflower.png");
+    font-family: 'Architects Daughter', cursive;
 }
+
+h1, h2, h3 { 
+    font-family: 'Ribeye Marrow', cursive;
+    }
 
 img.silly{
     width: 330px; 
@@ -9,8 +21,10 @@ img.silly{
 }
 
 nav{
+    font-family: 'Amatic SC', cursive;
     background-color: #abd7d8;
     color: lightgray
+    
 }
 
 .centerBox {
@@ -26,3 +40,15 @@ nav{
     height:400px;
     align-items: center;
 }
+
+a{
+    font-family:'Amatic SC', cursive; 
+    color: #67a9a9;
+    font-size: 24px;
+}
+ul{
+    font-family: 'Amatic SC', cursive;
+    font-size: 24px
+    
+}
+
