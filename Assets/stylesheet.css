@@ -1,18 +1,28 @@
-img{
+body{
+    background-image: url("./Images/greyflower.png");
+}
+
+img.silly{
     width: 330px; 
     height: 400px;
     text-align: center;
 }
 
-/* doesn't work, find how to change colors of bootstrap elements */
-nav.navbar{
-    background-color: blue;
+nav{
+    background-color: #abd7d8;
+    color: lightgray
 }
 
 .centerBox {
-    border: 0.25pc solid grey;
+    border: 0.25pc solid #bfd1d2;
+    background-color: #bfd1d2;
 }
 
-.row2{
-    padding-top=1px;
+.row1, .row2, .row3, .code{
+    padding-top: 100px;
+}
+#me{
+    width:330px;
+    height:400px;
+    align-items: center;
 }
